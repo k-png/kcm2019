@@ -17,7 +17,7 @@ margin-left: 1em;
 margin-right: 10em;
 }
 h3 {
-font-size: 1.3em;
+font-size: 2em;
 text-align: center;
 }
 table {
@@ -27,7 +27,7 @@ text-align: left;
 border-collapse: collapse;
 }
 tr {
-border: 1px solid #ffffff;
+border: 3px solid #ffffff;
 text-align: center;
 background-color:#9FB6CD;
 }
