@@ -1,4 +1,11 @@
-body{
+body1{
+background-color: #f1b10e;
+font-family: "Times New Roman", Times, serif;
+font-size: 0.5em;
+}
+
+
+body4{
 background-color: cyan;
 }
 h1 {
