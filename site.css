@@ -1,7 +1,14 @@
 body{
 background-color: cyan;
 }
-h2 {
+h1 {
 font-size: 3em;
 text-align: left;
+}
+h2 {
+font-size: 1em;
+ margin-top: 1.33em;
+ margin-bottom: 1.33em;
+ margin-left: 0;
+ margin-right: 0;
 }
