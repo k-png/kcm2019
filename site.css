@@ -1,11 +1,8 @@
-font{
-font-family: "Times New Roman", Times, serif;
-font-size: 2em;
-}
 
 body{
 background-color: cyan;
-<font>
+font-family: "Times New Roman", Times, serif;
+font-size: 2em;
 }
 
 h1 {
