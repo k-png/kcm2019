@@ -1,21 +1,37 @@
+font{
+font-family: "Times New Roman", Times, serif;
+font-size: 2em;
+}
+
 body1{
 background-color: #f1b10e;
-font-family: "Times New Roman", Times, serif;
-font-size: 1em;
+ font{};
 }
 
+body2{
+ background-color: Sienna;
+ font{};
+}
+body3{
+ background-color:lightGreen;
+ font{};
+}
 
-body{
+body4{
 background-color: cyan;
+font{};
 }
+
 h1 {
 font-size: 3em;
 text-align: left;
 }
+
 h2 {
+font-family: Arial, Helvetica, sans-serif;
 font-size: 1em;
- margin-top: 20em;
- margin-bottom: 1.33em;
- margin-left: 1em;
- margin-right: 10em;
+margin-top: 20em;
+margin-bottom: 1.33em;
+margin-left: 1em;
+margin-right: 10em;
 }
