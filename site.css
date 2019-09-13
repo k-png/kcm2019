@@ -3,23 +3,9 @@ font-family: "Times New Roman", Times, serif;
 font-size: 2em;
 }
 
-body1{
-background-color: #f1b10e;
- font{};
-}
-
-body2{
- background-color: Sienna;
- font{};
-}
-body3{
- background-color:lightGreen;
- font{};
-}
-
-body4{
+body{
 background-color: cyan;
-font{};
+<font>
 }
 
 h1 {
